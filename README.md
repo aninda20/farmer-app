@@ -1,7 +1,7 @@
 # Farmer App
 <p align="center">
   <a href="" rel="noopener">
- <img width="80" alt="Farmer App Logo" src="[(https://github.com/aninda20/farmer-app/blob/main/images/logo.png]">
+ <img width="80" alt="Farmer App Logo" src="https://github.com/aninda20/farmer-app/blob/main/images/logo.png">
 </a>
 </p>
 
@@ -42,8 +42,8 @@ We developed an IoT-based smart agriculture system using Arduino Uno R3, a varie
 5)PHP </br>
 
 🤳 Screenshots <a name = "screenshots"></a>
-- Landing Page with Iot System Interface: ![ss1]([https://user-images.githubusercontent.com/53020383/144102599-952bbdfc-d3b4-4d7f-a572-56bf46a2e0e5.png](https://github.com/aninda20/farmer-app/blob/main/images/Screenshot%20-%201.png))
-- Contacts: ![ss2][https://user-images.githubusercontent.com/53020383/144102599-952bbdfc-d3b4-4d7f-a572-56bf46a2e0e5.png](https://github.com/aninda20/farmer-app/blob/main/images/Screenshot%20-%202.png)
+- Landing Page with IoT System Interface: ![ss1](https://github.com/aninda20/farmer-app/blob/main/images/Screenshot%20-%201.png)
+- Contacts: ![ss2](https://github.com/aninda20/farmer-app/blob/main/images/Screenshot%20-%202.png)
 
 ✍️ Author <a name = "authors"></a>
-- - [Aninda Mandal](https://github.com/aninda20)
+- [Aninda Mandal](https://github.com/aninda20)
