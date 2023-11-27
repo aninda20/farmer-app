@@ -1,7 +1,7 @@
 # Farmer App
 <p align="center">
   <a href="" rel="noopener">
- <img width="80" alt="Farmer App Logo" src="[LINK_TO_YOUR_APP_LOGO_IMAGE]">
+ <img width="80" alt="Farmer App Logo" src="[(https://github.com/aninda20/farmer-app/blob/main/images/logo.png]">
 </a>
 </p>
 
