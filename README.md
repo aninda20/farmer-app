@@ -31,7 +31,7 @@
 - Further integration with agricultural IoT devices.
 
 🏁 Getting Started <a name = "getting_started"></a>
-- "git clone [YOUR_GITHUB_REPOSITORY_LINK]"
+- "git clone https://github.com/aninda20/farmer-app/"
 - Instructions for installing dependencies and running the app.
 
 ⛏️ Built With </br> <a name = "tech_stack"></a>
