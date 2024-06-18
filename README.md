@@ -21,7 +21,7 @@
 - [Author](#authors)
 
 🌾 About the IoT-Based System <a name = "iot_system"></a>
-</br>We developed an IoT-based smart agriculture system using Arduino Uno R3, a variety of sensors, and wireless communication modules. This advanced system allows for remote monitoring and control of farming operations. Key achievements include:
+</br>It is an IoT-based smart agriculture system using Arduino Uno R3, a variety of sensors, and wireless communication modules. This advanced system allows for remote monitoring and control of farming operations. Key achievements include:
 - An increase in crop yield.
 - Reduction in resource consumption.
 - Collaboration with engineers and agricultural experts to ensure smooth integration with existing farming practices.
