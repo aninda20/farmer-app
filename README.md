@@ -9,7 +9,7 @@
     <br> 
 </h3>
 
-<p> Farmer App is a solution for modern farm management, integrating cutting-edge IoT technology for efficiency and sustainability. This is suitable for large-scale agricultural operations or managing a small family farm, our app and IoT system streamline all aspects of farm management.</p>
+<p> Farmer App is a solution for modern farm management, integrating cutting-edge IoT technology for efficiency and sustainability. This is suitable for large-scale agricultural operations or managing a small family farm. The IoT system streamline all aspects of farm management. Plesse not that there is no IoT integrations in this code.</p>
 
 📝 Table of Contents
 
@@ -32,7 +32,6 @@
 
 🏁 Getting Started <a name = "getting_started"></a>
 - "git clone https://github.com/aninda20/farmer-app/"
-- Instructions for installing dependencies and running the app.
 
 ⛏️ Built With </br> <a name = "tech_stack"></a>
 1)HTML </br>
