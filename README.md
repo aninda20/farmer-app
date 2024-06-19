@@ -9,7 +9,7 @@
     <br> 
 </h3>
 
-<p> Farmer App is a solution for modern farm management, integrating cutting-edge IoT technology for efficiency and sustainability. This is suitable for large-scale agricultural operations or managing a small family farm. The IoT system streamline all aspects of farm management. Plesse not that there is no IoT integrations in this code.</p>
+<p> Farmer App is a solution for modern farm management, integrating cutting-edge IoT technology for efficiency and sustainability. This is suitable for large-scale agricultural operations or managing a small family farm. The IoT system streamline all aspects of farm management. Please note that there is no IoT integrations in this code.</p>
 
 📝 Table of Contents
 
